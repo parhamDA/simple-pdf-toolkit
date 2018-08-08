@@ -6,8 +6,8 @@ Merging, appending and splitting PDF pages.
 1. Windows Form Application.
 2. Python programming language.
 1. Python development in Visual Studio 2017 for debugging Python codes.
-2. [http://ironpython.net/](IronPython), the Python programming language for the .NET Framework.
-3. [https://pythonhosted.org/PyPDF2/](PyPDF2), pure-python PDF toolkit originating from the pyPdf project.
+2. [IronPython](http://ironpython.net/), the Python programming language for the .NET Framework.
+3. [PyPDF2](https://pythonhosted.org/PyPDF2/), pure-python PDF toolkit originating from the pyPdf project.
 
 ## Run On Windows
 
